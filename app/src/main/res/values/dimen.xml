@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--default-->
+<dimen name="text_size_title">14sp</dimen>
+<dimen name="text_size">12sp</dimen>
+<dimen name="text_size_ultra_small">8sp</dimen>
+
+<dimen name="margin">5dp</dimen>
+<dimen name="margin_medium">10dp</dimen>
+<dimen name="margin_large">15dp</dimen>
+
+</resources>

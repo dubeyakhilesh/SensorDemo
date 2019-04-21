@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorExample</string>
+
+    <string name="azi_name">Azimuth :</string>
+    <string name="pitch_name">Pitch :</string>
+    <string name="roll_name">Roll :</string>
+</resources>
